@@ -1,0 +1,6 @@
+# Example 1
+
+Predominantly negative valence, fluctuating arousal.  Sadness expressed regarding Niki Lauda\'s death contrasts with anger and anxiety observed in comments on political and economic issues.\n\n**Cognitive Appraisal & Conceptualization:** Frequent use of blame attribution, particularly towards politicians and corporations. Skepticism towards perceived hypocrisy, particularly regarding environmental concerns.\n\n**Cultural & Social Context:**  Engaged with Austrian political discourse, evident in comments on national policies and political figures.  Online disinhibition likely contributes to direct and confrontational language.\n\n**Emotion Construction:** Emotions constructed through interplay of negative core affect, critical appraisals, and the socio-political context of the online forum. Cynicism and skepticism prominent in political discussions.\n\n**Emotional Dynamics:**  Emotional fluctuations observed. Shifts from sadness to anger to more neutral tones demonstrate context-dependent emotional construction.  Adaptability in emotional responses seen in interactions with other users.\n"
+
+
+# Example 2

@@ -1,0 +1,3 @@
+Using the comprehensive analysis provided, your task is to create a concise summary highlighting the most critical insights from each section regarding the emotional expressions. Focus on synthesizing the main points while maintaining clarity and relevance. The summary should reflect the essence of the user's emotional profile as interpreted through the lens of the theory of constructed emotions.
+
+Your summary should be clear and well-organized, providing a comprehensive overview without using assertive commentary. You already did a large and in depth analysis. Now I want the results, short precise and accurate. Do not waste words on explaining any emotional theories or introducing yourself. We want the truth about this user without any skirmish!

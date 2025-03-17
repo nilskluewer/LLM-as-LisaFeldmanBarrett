@@ -1,0 +1,19 @@
+{
+    "model_name_X": "gemini-pro-experimental",
+    "model_name_X": "gemini-1.5-pro-002",
+    "model_name": "gemini-1.5-flash-002",
+    "llm_endpoint_location": "europe-west1",
+    "prompt_version" : "v17",
+    "sample_folder" : "sp0",
+    "confabulation_threshold" : 2,
+    "debug_api_call" : false,
+    "debug_schema" : false,
+    "check_for_hallucinations" : true,
+    "dataset_tag" : "test_runs",
+    "split" : "dev",
+    "temperature" : 1.0,
+    "top_p": 0.95,
+    "share_dataset" : false,
+    "eval_all_aspects" : false,
+    "validate_output_structure" : true
+}
