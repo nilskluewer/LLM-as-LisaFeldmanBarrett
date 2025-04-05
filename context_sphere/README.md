@@ -1,0 +1,1 @@
+The building of the context sphere is in this version only possible using the data from Der Standard Online Newspaper. You can add the csv files and adapt the [./config.json]() with the correct Paths.
