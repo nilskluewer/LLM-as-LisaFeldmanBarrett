@@ -1,4 +1,6 @@
 # Context over Categories - Implementing the Theory of Constructed Emotion
+
+Paper: [Context over Categories - Implementing the Theory of Constructed Emotion](https://dl.acm.org/doi/10.1145/3706599.3721205)
  
  This is Repo shows how the Theory of Constructed Emotions by Lisa Feldmann Barrett can be implmented using Large Langue Models. 
  The first part is the "./context_sphere":  Process the context to be suitable as an LLM input. 
